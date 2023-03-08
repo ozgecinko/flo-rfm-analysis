@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Datasets
+dataset/
+
+# PyCharm
+.idea/
+
+# Macbook
+.DS_Store
